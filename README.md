@@ -72,3 +72,5 @@ Email_SMS_spam_classifier/
 - Displays classification result and confidence score
 
 ---
+
+## Developed by Kartik
