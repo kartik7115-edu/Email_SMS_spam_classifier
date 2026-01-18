@@ -1,0 +1,5 @@
+streamlit==1.53.0
+scikit-learn
+nltk
+numpy
+pandas
